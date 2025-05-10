@@ -1,1 +1,1 @@
-# emai-verification
+# Pabbly email verification
